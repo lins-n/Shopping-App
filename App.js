@@ -7,7 +7,7 @@ import Tabs from './component/Tabs.js';
 
 import Secondscreen from './screens/Secondscreen';
 import Categories from './screens/Categories';
-import Cartlist from './screens/Cartlist';
+//import Cartlist from './screens/Cartlist';
 
 
 
